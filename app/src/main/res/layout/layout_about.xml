@@ -162,7 +162,7 @@
                     </com.google.android.material.card.MaterialCardView>
                 </LinearLayout>
             </com.google.android.material.card.MaterialCardView>
-            <com.expandable.layout.ExpandableLayout
+            <com.neko.expandable.layout.ExpandableLayout
                 android:orientation="vertical"
                 android:layout_width="fill_parent"
                 android:layout_height="wrap_content"
@@ -261,7 +261,7 @@
                         </LinearLayout>
                     </LinearLayout>
                 </com.google.android.material.card.MaterialCardView>
-                <com.expandable.layout.ExpandableView
+                <com.neko.expandable.layout.ExpandableView
                     android:id="@+id/expandable_view"
                     android:layout_width="fill_parent"
                     android:layout_height="wrap_content"
@@ -277,7 +277,7 @@
                             android:layout_width="fill_parent"
                             android:layout_height="fill_parent" />
                     </LinearLayout>
-                </com.expandable.layout.ExpandableView>
+                </com.neko.expandable.layout.ExpandableView>
             </com.expandable.layout.ExpandableLayout>
             <com.google.android.material.card.MaterialCardView
                 android:layout_width="fill_parent"

@@ -19,11 +19,15 @@
             android:padding="3.0dip"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content">
-            <ImageView
+            <com.neko.circleimageview.CircleImageView
                 android:id="@+id/logo_view"
                 android:layout_width="160.0dip"
                 android:layout_height="160.0dip"
                 android:src="@drawable/uwu_banner_splash"
+                app:civ_border_color="@android:color/white"
+                app:civ_border_overlay="true"
+                app:civ_border_width="3.0dip"
+                app:civ_circle_background_color="?attr/colorCard"
                 android:scaleType="centerCrop" />
         </LinearLayout>
         <TextView
