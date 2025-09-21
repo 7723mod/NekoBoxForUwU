@@ -575,4 +575,24 @@
     <string name="reset_settings">Restore default settings</string>
     <string name="reset_settings_message">Restore default settings, but data such as nodes and groups will be retained. To completely clear data, clear application data directly in the system settings.</string>
     <string name="minimize">Minimize</string>
+    <!-- uwu -->
+    <string name="uwu_about_miku_summary">Hatsune Miku is a virtual pop star and a VOCALOID, which is a singing voice synthesizer software product. She is depicted as a 16-year-old girl with long, turquoise twintails and is officially code-named CV01.</string>
+    <string name="uwu_about_miku_title">Who is Hatsune Miku?</string>
+    <string name="uwu_about_version_summary">Tap here or arrow icon to know more about the app.</string>
+    <string name="uwu_about_version_title">About</string>
+    <string name="uwu_banner_settings_summary">"Welcome to the settings
+menu, please select
+whichever option
+you need."</string>
+    <string name="uwu_banner_settings_title">Hello there...</string>
+    <string name="uwu_banner_summary">"Let's sing with me!"</string>
+    <string name="uwu_banner_title">Hi, master</string>
+    <string name="uwu_general_settings_title">General settings</string>
+    <string name="uwu_maintainer_summary">Matsuridayo Development</string>
+    <string name="uwu_maintainer_title">This app is under maintenance</string>
+    <string name="uwu_splash_summary">Version 1.4.0 (220)</string>
+    <string name="uwu_splash_title">"Made With ♥️
+By Matsuridayo Development"</string>
+    <string name="uwu_theme_settings_summary">Choose the accent color yourself</string>
+    <string name="uwu_theme_settings_title">Theme settings</string>
 </resources>
